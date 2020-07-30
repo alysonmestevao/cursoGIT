@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Teste
 Entendendo o HEAD
 Linha modificada no ramo Master
+=======
+
+Entendendo o HEAD
+aushduahsduahsd
+Linha modificada no ramo teste
+>>>>>>> teste
